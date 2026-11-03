@@ -1,6 +1,6 @@
 'use client'
 
-const REQUEST_DESTINATION = 'https://tinyurl.com/3ver7npz'
+const REQUEST_DESTINATION = 'https://tinyurl.com/2s3k5j64'
 
 export default function Page() {
   function handleRequest() {
